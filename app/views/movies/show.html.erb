@@ -1,0 +1,9 @@
+<h1></h1>
+
+<h2>list of </h2>
+<%= simple_form_for @movie do |f| %>
+  <%= f.input :name %>
+  <%= f.association :company %>
+  <%= f.association :roles %>
+  <%= f.button :submit %>
+<% end %>

@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* ga . && gcmsg "first commt" == shortcut fo.
+
+
+gh repo create 
